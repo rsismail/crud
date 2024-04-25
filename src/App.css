@@ -6,15 +6,11 @@
 .appContainer{
   width: 100vw;
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #161616;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
-  padding: 40px;
+  padding: 0 2.4rem;
 }
-.employeeTableContainer{
-  width: 90vw;
-  height: 90vh;
-  background-color: #ffffff;
+.modalContainer{
+  background-color: #313131;
 }
